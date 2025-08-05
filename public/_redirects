@@ -1,0 +1,3 @@
+# Redirects for Netlify
+/img/* /img/:splat 200
+/video/* /video/:splat 200 
